@@ -384,6 +384,7 @@ footer .copyright{
     justify-content: center;
     padding-left: 60px;
     margin: 50px 0;
+    background-color: #f2f2f2;
 }
 
 .content{
@@ -404,6 +405,65 @@ footer .copyright{
     transform: translate(0px, -8px);
 }
 
+button{
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    width: 100%;
+    padding: 15px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    margin-top: 5px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.available-1{
+    background: #216162;
+}
+
+.available-2{
+    background: #3b7e40;
+}
+
+.available-3{
+    background: #ff9f43;
+}
+
+/* contact */
+#contact{
+    padding: 8vw;
+    background-color: #fff;
+}
+
+#contact .getin{
+    width: 350px;
+}
+
+#contact .getin h2{
+    color: #2c234d;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: .8;
+    margin-bottom: 16px;
+}
+
+#contact .getin p{
+    color: #686875;
+    line-height: 24px;
+    margin-bottom: 33px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid #e5e4ed;
+}
+
+#contact .getin-details h3{
+    color: rgb(0, 0, 0);
+    line-height: 26px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: 600;
+}
 
 
 
